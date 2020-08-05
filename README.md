@@ -19,7 +19,7 @@ Hello, I'm alfaza. a software engineer who is currently studying State Polytechn
 - SQL Server
 - MariaDB
 
-:books: Programming Languange:
+:books: Programming Language:
 - Javasccript
 - Java
 - PHP
