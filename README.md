@@ -27,7 +27,11 @@ Hello, I'm alfaza. a software engineer who is currently studying State Polytechn
 
 <br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfazasatria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<br></br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfazasatria)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlfazaSatria)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
 [website]: alfazasatria.github.io
 [linkedin]: https://www.linkedin.com/in/alfaza-satria-2b1411192/ 
 [Instagram]: https://www.instagram.com/alfazasatria/
