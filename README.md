@@ -25,13 +25,6 @@ Hello, I'm alfaza. a software engineer who is currently studying State Polytechn
 [<img align="left" alt="alfazasatria | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="alfazasatria | Instagram" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfazasatria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br></br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfazasatria)](https://github.com/anuraghazra/github-readme-stats)
-<br></br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlfazaSatria)](https://github.com/anuraghazra/github-readme-stats)
-<br></br>
 [website]: alfazasatria.github.io
 [linkedin]: https://www.linkedin.com/in/alfaza-satria-2b1411192/ 
 [Instagram]: https://www.instagram.com/alfazasatria/
@@ -48,3 +41,11 @@ Hello, I'm alfaza. a software engineer who is currently studying State Polytechn
 [git]: https://git-scm.com/
 [github]: https://github.com/AlfazaSatria
 [bootstrap]: https://v5.getbootstrap.com/
+
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfazasatria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfazasatria)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlfazaSatria)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
